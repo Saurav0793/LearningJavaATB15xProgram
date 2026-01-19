@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db7f96c1-d601-430c-abac-ddf97f52d88f" name="Changes" comment="my second java program.">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab003_comment.java" afterDir="false" />
+    <list default="true" id="db7f96c1-d601-430c-abac-ddf97f52d88f" name="Changes" comment="my third java program for learning single comments.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab003_comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab003_comment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   "keyToString": {
     "Application.Lab001_HelloWorld.executor": "Run",
     "Application.Lab002_No_Method.executor": "Run",
+    "Application.Lab003_comment.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -93,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1768814680479</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="my third java program for learning single comments.">
+      <option name="closed" value="true" />
+      <created>1768815181301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768815181301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit." />
     <MESSAGE value="my second java program." />
-    <option name="LAST_COMMIT_MESSAGE" value="my second java program." />
+    <MESSAGE value="my third java program for learning single comments." />
+    <option name="LAST_COMMIT_MESSAGE" value="my third java program for learning single comments." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
