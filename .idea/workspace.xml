@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db7f96c1-d601-430c-abac-ddf97f52d88f" name="Changes" comment="my third java program for learning single comments.">
+    <list default="true" id="db7f96c1-d601-430c-abac-ddf97f52d88f" name="Changes" comment="Mix of single &amp; Multi Line comment.">
+      <change afterPath="$PROJECT_DIR$/src/task/task01_nine_table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab003_comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab003_comment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,9 @@
     "Application.Lab001_HelloWorld.executor": "Run",
     "Application.Lab002_No_Method.executor": "Run",
     "Application.Lab003_comment.executor": "Run",
+    "Application.Lab004_Multi_Comment.executor": "Run",
+    "Application.Lab005_Mix_Single_Multi.executor": "Run",
+    "Application.task01_nine_table.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -103,14 +106,41 @@
       <option name="project" value="LOCAL" />
       <updated>1768815181301</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Some Changes in Single Line comments Program.">
+      <option name="closed" value="true" />
+      <created>1768815689378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768815689378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Multi Line comment">
+      <option name="closed" value="true" />
+      <created>1768826796829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768826796829</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mix of single &amp; Multi Line comment.">
+      <option name="closed" value="true" />
+      <created>1768826879360</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768826879360</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit." />
     <MESSAGE value="my second java program." />
     <MESSAGE value="my third java program for learning single comments." />
-    <option name="LAST_COMMIT_MESSAGE" value="my third java program for learning single comments." />
+    <MESSAGE value="Some Changes in Single Line comments Program." />
+    <MESSAGE value="Multi Line comment" />
+    <MESSAGE value="Mix of single &amp; Multi Line comment." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mix of single &amp; Multi Line comment." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
